@@ -1,6 +1,6 @@
 {
   "name": "react-md-calendar",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React Component Material Design Calendar.",
   "main": "lib/index.js",
   "scripts": {

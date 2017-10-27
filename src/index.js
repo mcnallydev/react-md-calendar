@@ -152,10 +152,10 @@ class Calendar extends Component {
   renderHeaders() {
     let header = [];
 
-    for (let index = 0; index < config.weekSubs.length; index++) {
+    for (let index = 0; index < [this.props.locale].weekSubs.length; index++) {
       header.push(
         <p className="day-headers noselect">
-          {config.weekSubs[index]}
+          {[this.props.locale].weekSubs[index]}
         </p>
       );
     }
