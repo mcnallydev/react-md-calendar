@@ -18,7 +18,7 @@ module.export = {
     'Feb',
     'Mar',
     'Abr',
-    'May'
+    'May',
     'Jun',
     'Jul',
     'Ago',
